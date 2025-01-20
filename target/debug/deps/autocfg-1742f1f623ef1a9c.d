@@ -1,0 +1,10 @@
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/libautocfg-1742f1f623ef1a9c.rmeta: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/libautocfg-1742f1f623ef1a9c.rlib: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/autocfg-1742f1f623ef1a9c.d: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:

@@ -1,0 +1,5 @@
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/release/deps/Two_Pointer_Palindrome_Check-ecc2d020a5da7c2c: src/main.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/release/deps/Two_Pointer_Palindrome_Check-ecc2d020a5da7c2c.d: src/main.rs
+
+src/main.rs:

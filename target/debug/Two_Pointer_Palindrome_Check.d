@@ -1,0 +1,1 @@
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/Two_Pointer_Palindrome_Check: /Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/src/main.rs

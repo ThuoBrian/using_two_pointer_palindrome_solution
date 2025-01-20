@@ -1,0 +1,10 @@
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/libwalkdir-3bb8defb2fe13497.rmeta: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/libwalkdir-3bb8defb2fe13497.rlib: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/walkdir-3bb8defb2fe13497.d: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs:

@@ -1,0 +1,9 @@
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/libciborium_ll-087621fac350a20c.rmeta: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs
+
+/Users/brianthuo/Documents/Developer/Rust_Programing/Rust_Practice_Codes/Beginner_Friendly_Projects/Two_Pointer_Palindrome_Check/target/debug/deps/ciborium_ll-087621fac350a20c.d: /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs /Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs
+
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs:
+/Users/brianthuo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs:
