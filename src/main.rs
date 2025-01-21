@@ -38,4 +38,20 @@ mod tests {
         let test_array = vec!['B', 'O', 'B'];
         assert_eq!(two_pointer_palindrome(&test_array), true)
     }
+    #[test]
+    fn test_odd_length_palindrome() {
+        let test_array = vec!['B', 'O', 'B', 'O', 'B'];
+        assert_eq!(two_pointer_palindrome(&test_array), true)
+    }
+    #[test]
+    fn test_even_length_palindrome() {
+        let test_array = vec!['B', 'O', 'B', 'B', 'O', 'B'];
+        assert_eq!(two_pointer_palindrome(&test_array), true)
+    }
+
+    #[test]
+    fn test_not_palindrome() {
+        let test_array = vec!['B', 'O', 'B', 'O', 'B', 'O'];
+        assert_ne!(two_pointer_palindrome(&test_array), true)
+    }
 }
