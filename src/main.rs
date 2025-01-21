@@ -2,7 +2,7 @@ fn main() {
     let mut arr: Vec<char> = vec!['B', 'o', 'b'];
 
     let convert_to_lowercaps = |s: &char| -> char { s.to_lowercase().next().unwrap() };
-    
+
     for elem in arr.iter_mut() {
         *elem = convert_to_lowercaps(elem);
     }
@@ -26,4 +26,16 @@ fn two_pointer_palindrome(array: &[char]) -> bool {
         right_array_index -= 1;
     }
     true
+}
+
+#[cfg(test)]
+
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_two_pointer_palindrome() {
+        let test_array = vec!['B', 'O', 'B'];
+        assert_eq!(two_pointer_palindrome(&test_array), true)
+    }
 }
