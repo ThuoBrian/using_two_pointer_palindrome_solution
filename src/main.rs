@@ -1,5 +1,5 @@
 fn main() {
-    let mut arr: Vec<char> = vec!['B', 'o', 'b'];
+    let mut arr: Vec<char> = vec!['r','a','c','e','c','a','R'];
 
     let convert_to_lowercaps = |s: &char| -> char { s.to_lowercase().next().unwrap() };
 
