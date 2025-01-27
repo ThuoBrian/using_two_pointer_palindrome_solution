@@ -1,11 +1,7 @@
 fn main() {
-    let mut arr: Vec<char> = vec!['r','a','c','e','c','a','R'];
+    let mut arr: Vec<char> = vec!['r', 'a', 'c', 'e', 'c', 'a', 'R'];
 
-    let convert_to_lowercaps = |s: &char| -> char { s.to_lowercase().next().unwrap() };
-
-    for elem in arr.iter_mut() {
-        *elem = convert_to_lowercaps(elem);
-    }
+    convert_to_lower_caps(&mut arr);
 
     if two_pointer_palindrome(&arr) {
         println!("the array is a palindrome");
@@ -26,6 +22,14 @@ fn two_pointer_palindrome(array: &[char]) -> bool {
         right_array_index -= 1;
     }
     true
+}
+
+fn convert_to_lower_caps(array: &mut Vec<char>) {
+    let convert_to_lowercaps = |s: &char| -> char { s.to_lowercase().next().unwrap() };
+
+    for elem in array.iter_mut() {
+        *elem = convert_to_lowercaps(elem);
+    }
 }
 
 #[cfg(test)]
